@@ -44,4 +44,4 @@ while True:
         print("No Free Money.")
         break
     else:
-        print("Invalid choice. Please enter a valid option (1, 2, or 3).")
+        print("Invalid choice.  Please enter a valid option (1, 2, or 3).")
